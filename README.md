@@ -1,5 +1,5 @@
 Hi there 👋, I am Anil Verma
-I am a passionate front-end developer / architect with more than 7 years of experience who is fascinated by complex engineering problems.
+I am a passionate front-end developer / architect who is fascinated by complex engineering problems.
 
 
 💻 Tech-enthusiast and programmer.
