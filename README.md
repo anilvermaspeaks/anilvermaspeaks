@@ -5,7 +5,7 @@ I am a passionate front-end developer / architect who is fascinated by complex e
 
 🚀 Great interest in acquiring and improving skills.
 
-👥 Ask me anything about Web Development.
+👥 Ask me anything about web development.
 
 📖 Love to read and write.
 
