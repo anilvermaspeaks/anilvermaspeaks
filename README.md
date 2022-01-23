@@ -1,5 +1,5 @@
 Hi there 👋, I am Anil Verma
-I am a passionate front-end developer / architect who is fascinated by complex engineering problems.
+I am a passionate Full Stack Web Developer who is fascinated by complex engineering problems.
 
 💻 Tech-enthusiast and programmer.
 
