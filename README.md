@@ -8,6 +8,9 @@ I am a passionate Full Stack Web Developer who is fascinated by complex engineer
 👥 Ask me anything about web development.
 
 📖 Love to read and write.
+ 
+I'm constantly learning new skills and striving for progress
+
 
 How to reach me: 
 
