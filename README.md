@@ -23,7 +23,8 @@ I'm constantly learning new skills and striving for progress
   
   <br/>
   <br/>
- # 📝 Latest Blogs posts  
+
+** 📝 Latest Blogs posts  **
  <ul dir="auto">
 <li><a href="https://anilvermaspeaks.medium.com/aws-snow-family-overview-662676cefcd9" rel="nofollow">AWS Snow Family — Overview</a></li>
 <li><a href="https://anilvermaspeaks.medium.com/introduction-to-ssl-tls-9fe79b0c3957" rel="nofollow">Introduction to SSL/TLS</a></li>
