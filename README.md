@@ -9,12 +9,6 @@ I am a passionate Full Stack Web Developer who is fascinated by complex engineer
 
 📖 Love to read and write.
  
-I'm constantly learning new skills and striving for progress
-  <br/>
-
-<div><img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anilvermaspeaks&theme=dark"/></div>
-
-  <br/>
   
 
 ## Connect with me:
