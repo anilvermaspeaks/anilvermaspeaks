@@ -17,7 +17,13 @@ I am a passionate Full Stack Web Developer who is fascinated by complex engineer
   
   <br/>
   <br/>
+  
+ 
 
+<div><img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anilvermaspeaks&theme=dark"/></div>
+
+  <br/>
+ <br/>
 ** 📝 Latest Blogs posts  **
  <ul dir="auto">
 <li><a href="https://anilvermaspeaks.medium.com/aws-snow-family-overview-662676cefcd9" rel="nofollow">AWS Snow Family — Overview</a></li>
