@@ -22,14 +22,14 @@ I am a passionate Full Stack Web Developer who is fascinated by complex engineer
 
 <div><picture>
 <source 
-  srcset="![Anil's GitHub stats]https://github-readme-stats.vercel.app/api?username=anilvermaspeaks&show_icons=true&theme=merko"
+  srcset="https://github-readme-stats.vercel.app/api?username=anilvermaspeaks&show_icons=true&theme=merko"
   media="(prefers-color-scheme: merko)"
 />
 <source
-  srcset="[Anil's GitHub stats]https://github-readme-stats.vercel.app/api?username=anilvermaspeaks&show_icons=true"
+  srcset="https://github-readme-stats.vercel.app/api?username=anilvermaspeaks&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="[Anil's GitHub stats]https://github-readme-stats.vercel.app/api?username=anilvermaspeaks&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=anilvermaspeaks&show_icons=true" width="100%" />
 </picture>
  </div>
 
