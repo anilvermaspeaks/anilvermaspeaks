@@ -41,6 +41,6 @@ I am a passionate Full Stack Web Developer who is fascinated by complex engineer
   srcset="https://github-readme-stats.vercel.app/api?username=anilvermaspeaks&show_icons=true&hide_title=true&layout=compact"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=anilvermaspeaks&show_icons=true" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=anilvermaspeaks&layout=compact&hide_title=true&theme=merko&show_icons=true" width="100%" />
 </picture>
  </div>
