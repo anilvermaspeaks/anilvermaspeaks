@@ -9,7 +9,7 @@ I am a passionate Full Stack Web Developer who is fascinated by complex engineer
 
 📖 Love to read and write.
  
-  
+ <div><img src="https://github-readme-stats.vercel.app/api/top-langs?username=anilvermaspeaks&layout=compact"/></div> 
 
 ## Connect with me:
 
@@ -33,7 +33,7 @@ I am a passionate Full Stack Web Developer who is fascinated by complex engineer
  
 
 <div>
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anilvermaspeaks&layout=compact"/><picture>
+ <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=anilvermaspeaks&show_icons=true&theme=merko&hide_title=true&layout=compact"
   media="(prefers-color-scheme: merko)"
