@@ -45,4 +45,5 @@ I am a passionate Full Stack Web Developer who is fascinated by complex engineer
 </picture>
 
  </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anilvermaspeaks)](https://github.com/anuraghazra/github-readme-stats)
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anilvermaspeaks&layout=compact"/>
+
