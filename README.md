@@ -43,5 +43,5 @@ I am a passionate Full Stack Web Developer who is fascinated by complex engineer
 />
 <img src="https://github-readme-stats.vercel.app/api?username=anilvermaspeaks&layout=compact&hide_title=true&theme=merko&show_icons=true" width="100%" />
 </picture>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ <img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anilvermaspeaks&layout=compact)](https://github.com/anuraghazra/github-readme-stats)>
  </div>
