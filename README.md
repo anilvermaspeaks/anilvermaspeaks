@@ -15,23 +15,6 @@ I am a passionate Full Stack Web Developer who is fascinated by complex engineer
 
 <a href="mailto:anilcs240@gmail.com"  rel="noopener" style="text-decoration:none"><img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>  <a rel="noopener" target="_blank" href="https://twitter.com/anilvermaspeaks"><img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>  <a rel="noopener" target="_blank" href="https://anilvermaspeaks.medium.com/"><img height="30" src="https://img.shields.io/badge/-Medium-000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/></a>  <a rel="noopener" href="https://www.linkedin.com/in/anilvermaspeaks/" target="_blank" ><img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  <a  href="https://www.instagram.com/anilvermaspeaks/"  rel="noopener" target="_blank" ><img height="30" src="https://img.shields.io/badge/-Instagram-orange?&style=for-the-badge&logo=Instagram&logoColor=orange" /></a>
   
-  <br/>
-  <br/>
-  
- 
-
-<div><picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=anilvermaspeaks&show_icons=true&theme=merko"
-  media="(prefers-color-scheme: merko)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=anilvermaspeaks&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=anilvermaspeaks&show_icons=true" width="100%" />
-</picture>
- </div>
 
   <br/>
  <br/>
@@ -44,4 +27,20 @@ I am a passionate Full Stack Web Developer who is fascinated by complex engineer
 <li><a href="https://anilvermaspeaks.medium.com/internationalization-in-css-d733f1811e88" rel="nofollow">Internationalization In CSS</a></li>
 </ul>
        
+  <br/>
+  <br/>
+  
+ 
 
+<div><picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=anilvermaspeaks&show_icons=true&theme=merko&hide_title=true"
+  media="(prefers-color-scheme: merko)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=anilvermaspeaks&show_icons=true&hide_title=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=anilvermaspeaks&show_icons=true" width="100%" />
+</picture>
+ </div>
