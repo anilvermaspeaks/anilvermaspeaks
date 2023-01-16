@@ -20,7 +20,7 @@ I am a passionate Full Stack Web Developer who is fascinated by complex engineer
   
  
 
-<div><img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anilvermaspeaks&theme=dark"/></div>
+<div><img height="225" src="https://github-readme-stats.vercel.app/api?username=anilvermaspeaks&show_icons=true&theme=radical"/></div>
 
   <br/>
  <br/>
