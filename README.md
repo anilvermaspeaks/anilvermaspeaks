@@ -29,7 +29,7 @@ I am a passionate Full Stack Web Developer who is fascinated by complex engineer
   srcset="[Anil's GitHub stats]https://github-readme-stats.vercel.app/api?username=anilvermaspeaks&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=anilvermaspeaks&show_icons=true" />
+<img src="[Anil's GitHub stats]https://github-readme-stats.vercel.app/api?username=anilvermaspeaks&show_icons=true" />
 </picture>
  </div>
 
