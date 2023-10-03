@@ -18,7 +18,7 @@ I am a passionate Full Stack Web Developer who is fascinated by complex engineer
   
  <br/>
  
- ## Latest Blogs posts:
+ ## Latest Blogs:
 <!-- BLOG-POST-LIST:START -->
 - [Single Sign-On](https://blog.anilvermaspeaks.in/single-sign-on)
 - [WCAG Guidelines, Section 508 and ADA](https://blog.anilvermaspeaks.in/wcag-guidelines-section-508-and-ada)
