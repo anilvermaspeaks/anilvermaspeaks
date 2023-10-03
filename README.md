@@ -18,9 +18,7 @@ I am a passionate Full Stack Web Developer who is fascinated by complex engineer
   
  <br/>
  
-## Latest Blogs posts:
- 
-## Hashnode Blog Post
+ ## Latest Blogs posts:
 <!-- HASHNODE:START -->
 <!-- HASHNODE:END -->
        
