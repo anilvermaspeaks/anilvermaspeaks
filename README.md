@@ -29,7 +29,4 @@ I am a passionate Full Stack Web Developer who is fascinated by complex engineer
   <br/>
   <br/>
 
-  [![@anilvermaspeaks's Holopin board](https://holopin.io/api/user/badges?user=anilvermaspeaks)](https://holopin.io/@anilvermaspeaks)
-  
- 
 
