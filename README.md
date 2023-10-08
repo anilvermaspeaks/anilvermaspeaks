@@ -30,4 +30,5 @@ I am a passionate Full Stack Web Developer who is fascinated by complex engineer
   <br/>
   
 
-[![An image of @anilvermaspeaks's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anilvermaspeaks)](https://holopin.io/@anilvermaspeaks)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a></p>
