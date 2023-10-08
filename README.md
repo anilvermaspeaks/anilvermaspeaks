@@ -29,5 +29,5 @@ I am a passionate Full Stack Web Developer who is fascinated by complex engineer
   <br/>
   <br/>
 
-[![@anil's Holopin board](https://holopin.io/api/user/board?user=anilvermaspeaks)](https://holopin.io/@anilvermaspeaks)
+[![An image of @anilvermaspeaks's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anilvermaspeaks)](https://holopin.io/@anilvermaspeaks)
 
