@@ -20,10 +20,10 @@ I am a passionate Full Stack Web Developer who is fascinated by complex engineer
  
  ## Latest Blogs:
 <!-- BLOG-POST-LIST:START -->
+- [Arrays — Implementation in JavaScript/&lpar;PACKED &amp;&amp;HOLEY Array&rpar;](https://blog.anilvermaspeaks.in/arrays-implementation-in-javascriptpacked-holey-array)
 - [Single Sign-On](https://blog.anilvermaspeaks.in/single-sign-on)
 - [WCAG Guidelines, Section 508 and ADA](https://blog.anilvermaspeaks.in/wcag-guidelines-section-508-and-ada)
 - [Security &amp; Compliance&lpar;XSS&rpar;](https://blog.anilvermaspeaks.in/security-compliancexss)
-- [Security &amp; Compliance&lpar;PII&rpar;](https://blog.anilvermaspeaks.in/security-compliancepii)
 <!-- BLOG-POST-LIST:END -->
        
   <br/>
