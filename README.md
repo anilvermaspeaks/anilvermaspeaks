@@ -19,10 +19,10 @@ I am a passionate Full Stack Web Developer who is fascinated by complex engineer
  
  ## Latest Blogs:
 <!-- BLOG-POST-LIST:START -->
+- [Is it a good idea to use the 62.5% em trick?](https://blog.anilvermaspeaks.in/is-it-a-good-idea-to-use-the-625-em-trick)
 - [Arrays — Implementation in JavaScript/&lpar;PACKED &amp;&amp;HOLEY Array&rpar;](https://blog.anilvermaspeaks.in/arrays-implementation-in-javascriptpacked-holey-array)
 - [Single Sign-On](https://blog.anilvermaspeaks.in/single-sign-on)
 - [WCAG Guidelines, Section 508 and ADA](https://blog.anilvermaspeaks.in/wcag-guidelines-section-508-and-ada)
-- [Security &amp; Compliance&lpar;XSS&rpar;](https://blog.anilvermaspeaks.in/security-compliancexss)
 <!-- BLOG-POST-LIST:END -->
        
   <br/>
