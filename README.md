@@ -19,10 +19,10 @@ I am a passionate Full Stack Web Developer who is fascinated by complex engineer
  
  ## Latest Blogs:
 <!-- BLOG-POST-LIST:START -->
+- [AWS Accounts&lpar;Multiple AWS Accounts VS Single-Account&rpar;](https://blog.anilvermaspeaks.in/aws-accountsmultiple-aws-accounts-vs-single-account)
 - [A/B Testing or Split Testing](https://blog.anilvermaspeaks.in/ab-testing-or-split-testing)
 - [Git Branch Strategies](https://blog.anilvermaspeaks.in/git-branch-strategies)
 - [Software Architect](https://blog.anilvermaspeaks.in/software-architect)
-- [Is it a good idea to use the 62.5% em trick?](https://blog.anilvermaspeaks.in/is-it-a-good-idea-to-use-the-625-em-trick)
 <!-- BLOG-POST-LIST:END -->
        
   <br/>
