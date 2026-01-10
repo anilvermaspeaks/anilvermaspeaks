@@ -3,6 +3,8 @@ Solutions Architect | AI-Driven Solutions
 
 Solutions Architect and Tech Lead with more than a decade of experience designing and scaling modern web platforms for enterprise clients across telecom, finance, and digital commerce. Specializing in RAG-based systems and Agentic AI.
 
+I'm passionate about solving complex engineering challenges at the intersection of frontend, architecture, DevOps, and AI. Whether it's embedding UI workflows into cloud-native pipelines (AWS, Terraform), leading AI-augmented tooling efforts, or mentoring teams on scalable component and ML integration patterns, I focus on making architecture resilient, intelligent, and aligned with real business impact.
+
 
 ## Connect with me:
 
