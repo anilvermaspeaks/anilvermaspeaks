@@ -1,14 +1,10 @@
 # Hi there 👋, I am **Anil Verma**
-I am a passionate Full Stack Web Developer who is fascinated by complex engineering problems.
+Solutions Architect | AI-Driven Solutions
 
-💻 Tech-enthusiast and programmer.
+Solutions Architect and Tech Lead with more than a decade of experience designing and scaling modern web platforms for enterprise clients across telecom, finance, and digital commerce. Specializing in RAG-based systems and Agentic AI.
 
-🚀 Great interest in acquiring and improving skills.
 
-👥 Ask me anything about web development.
 
-📖 Love to read and write.
- 
  <div><img src="https://github-readme-stats.vercel.app/api/top-langs?username=anilvermaspeaks&layout=compact"/></div> 
 
 ## Connect with me:
