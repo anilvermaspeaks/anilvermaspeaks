@@ -1,19 +1,20 @@
 name: Blog Posts
 
 on:
-  # Run workflow automatically
   schedule:
-    # Runs every hour, on the hour
+    # Runs every 10 days at 12:00 UTC
     - cron: '0 12 */10 * *'
+  workflow_dispatch:
 
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: actions/checkout@v4
+
+      - uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          # comma-separated list of RSS feed urls
-          max_post_count: "4"
           feed_list: "https://blog.anilvermaspeaks.in/rss.xml"
+          max_post_count: 6
+          template: "- [$title]($url)"
